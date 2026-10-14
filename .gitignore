@@ -1,0 +1,43 @@
+# ---- Sistema ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- SolidWorks: archivos temporales/bloqueo ----
+~$*
+*.SLDBAK
+*.sldbak
+
+# ---- KiCad: respaldos y caché ----
+*-backups/
+*.kicad_prl
+fp-info-cache
+_autosave-*
+*.lck
+
+# ---- Arduino / PlatformIO / builds ----
+.pio/
+.vscode/.browse*
+.vscode/ipch
+build/
+*.o
+*.elf
+*.map
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---- Secretos: NUNCA subir ----
+.env
+secrets.h
+credenciales*
+*wifi_pass*
+
+# ---- Videos (súbelos a YouTube/Drive y deja el link) ----
+*.mp4
+*.mov
+*.avi
+*.mkv

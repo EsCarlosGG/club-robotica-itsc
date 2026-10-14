@@ -1,0 +1,4 @@
+categoria,componente,modelo,cantidad,costo_unitario_mxn,proveedor,link,notas
+Control,Microcontrolador,ESP32 DevKit V1,1,180,AliExpress,,Ejemplo - borra esta fila
+Potencia,Bateria,LiPo 3S 1300mAh,1,450,Mercado Libre,,
+Motores,Motor DC con reductor,N20 300RPM 12V,4,90,AliExpress,,

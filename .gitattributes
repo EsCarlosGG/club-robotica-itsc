@@ -1,0 +1,46 @@
+# Normaliza saltos de línea en texto
+* text=auto
+
+# ---- CAD (Git LFS) ----
+*.SLDPRT filter=lfs diff=lfs merge=lfs -text
+*.sldprt filter=lfs diff=lfs merge=lfs -text
+*.SLDASM filter=lfs diff=lfs merge=lfs -text
+*.sldasm filter=lfs diff=lfs merge=lfs -text
+*.SLDDRW filter=lfs diff=lfs merge=lfs -text
+*.slddrw filter=lfs diff=lfs merge=lfs -text
+*.STEP   filter=lfs diff=lfs merge=lfs -text
+*.step   filter=lfs diff=lfs merge=lfs -text
+*.STP    filter=lfs diff=lfs merge=lfs -text
+*.stp    filter=lfs diff=lfs merge=lfs -text
+*.IGS    filter=lfs diff=lfs merge=lfs -text
+*.igs    filter=lfs diff=lfs merge=lfs -text
+*.f3d    filter=lfs diff=lfs merge=lfs -text
+*.FCStd  filter=lfs diff=lfs merge=lfs -text
+
+# ---- Impresión 3D ----
+*.STL    filter=lfs diff=lfs merge=lfs -text
+*.stl    filter=lfs diff=lfs merge=lfs -text
+*.3mf    filter=lfs diff=lfs merge=lfs -text
+*.obj    filter=lfs diff=lfs merge=lfs -text
+*.gcode  filter=lfs diff=lfs merge=lfs -text
+*.gx     filter=lfs diff=lfs merge=lfs -text
+
+# ---- Documentos y binarios pesados ----
+*.pdf    filter=lfs diff=lfs merge=lfs -text
+*.pptx   filter=lfs diff=lfs merge=lfs -text
+*.docx   filter=lfs diff=lfs merge=lfs -text
+*.zip    filter=lfs diff=lfs merge=lfs -text
+*.bin    filter=lfs diff=lfs merge=lfs -text
+*.hex    filter=lfs diff=lfs merge=lfs -text
+
+# ---- Imágenes ----
+*.png    filter=lfs diff=lfs merge=lfs -text
+*.jpg    filter=lfs diff=lfs merge=lfs -text
+*.jpeg   filter=lfs diff=lfs merge=lfs -text
+
+# Texto que conviene ver diffs
+*.svg     text
+*.drawio  text
+*.csv     text
+*.kicad_sch text
+*.kicad_pcb text
