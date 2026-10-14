@@ -1,4 +1,9 @@
-# Club Robótica ITSC
+<p align="center">
+  <img src="recursos/identidad/logo.png" alt="Logo Club Robótica ITSC" width="260">
+</p>
+
+<h1 align="center">Club Robótica ITSC</h1>
+<p align="center"><i>TecNM Campus Cananea</i></p>
 
 Bitácora y archivo de **todos** los proyectos del **Club Robótica ITSC** (TecNM Campus Cananea): modelos 3D, diagramas, código, fotos, resultados de competencias y, sobre todo, **lo que aprendimos**.
 
