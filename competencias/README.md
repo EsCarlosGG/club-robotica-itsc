@@ -1,4 +1,4 @@
-# 🏆 Competencias
+# Competencias
 
 Registro de cada evento al que ha ido el club. Agrega una fila por robot inscrito.
 

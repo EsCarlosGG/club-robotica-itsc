@@ -1,4 +1,4 @@
-# 📤 Cómo subir tu proyecto
+# Cómo subir tu proyecto
 
 Guía para que cualquier integrante (aunque nunca haya usado Git) pueda subir su proyecto.
 
@@ -18,7 +18,7 @@ Guía para que cualquier integrante (aunque nunca haya usado Git) pueda subir su
    cd club-robotica-itsc
    ```
 
-> 💡 **¿No te late la terminal?** Usa [GitHub Desktop](https://desktop.github.com). Hace todo esto con botones y ya trae soporte para LFS.
+> **¿No te late la terminal?** Usa [GitHub Desktop](https://desktop.github.com). Hace todo esto con botones y ya trae soporte para LFS.
 
 ---
 
@@ -87,13 +87,13 @@ Luego en GitHub abre un **Pull Request** hacia `main`. Alguien del club lo revis
 
 Cortos y que digan qué hiciste:
 
-- ✅ `Agrega esquemático del driver de motores`
-- ✅ `Corrige pinout del sensor VL53L7CX en firmware`
-- ❌ `cambios`, `ya quedó`, `asdf`
+- Bien: `Agrega esquemático del driver de motores`
+- Bien: `Corrige pinout del sensor VL53L7CX en firmware`
+- Mal: `cambios`, `ya quedó`, `asdf`
 
 ---
 
-## ❓ Dudas
+## Dudas
 
 Abre un *Issue* en GitHub o pregúntale a quien esté a cargo del repo este semestre.
 
@@ -101,7 +101,7 @@ Abre un *Issue* en GitHub o pregúntale a quien esté a cargo del repo este seme
 
 ---
 
-## 🔑 Administración del repo
+## Administración del repo
 
 - El repo vive en la cuenta personal de quien lo administra. Los colaboradores se agregan en *Settings → Collaborators*.
 - **Antes de que el encargado se gradúe**, tiene que transferir el repo a la cuenta de quien siga (*Settings → General → Transfer ownership*). GitHub redirige los links viejos, así que no se rompe nada.

@@ -1,4 +1,4 @@
-# 🤖 Club Robótica ITSC
+# Club Robótica ITSC
 
 Bitácora y archivo de **todos** los proyectos del **Club Robótica ITSC** (TecNM Campus Cananea): modelos 3D, diagramas, código, fotos, resultados de competencias y, sobre todo, **lo que aprendimos**.
 
@@ -6,7 +6,7 @@ La idea es simple: que ninguna generación empiece desde cero. Si vas a hacer un
 
 ---
 
-## 📁 ¿Qué hay en este repo?
+## ¿Qué hay en este repo?
 
 ```
 ├── proyectos/          ← Un folder por proyecto (robots, prototipos, pruebas)
@@ -36,21 +36,21 @@ proyectos/2026-robot-sumo/
 
 ---
 
-## 🗂️ Índice de proyectos
+## Índice de proyectos
 
 | Proyecto | Año | Tipo | Estado | Competencia | Integrantes |
 |---|---|---|---|---|---|
-| [Ejemplo: Robot sumo 4 llantas](proyectos/) | 2026 | Sumo | 🟡 En desarrollo | — | — |
+| [Ejemplo: Robot sumo 4 llantas](proyectos/) | 2026 | Sumo | En desarrollo | — | — |
 
-> Estados: 🟢 Terminado · 🟡 En desarrollo · 🔴 Abandonado (¡también se documenta, se aprende mucho de lo que falla!)
+> Estados: Terminado · En desarrollo · Abandonado (¡también se documenta, se aprende mucho de lo que falla!)
 
-## 🏆 Competencias
+## Competencias
 
 Ver [competencias/README.md](competencias/README.md).
 
 ---
 
-## ✋ Reglas de oro
+## Reglas de oro
 
 1. **Documenta mientras haces, no al final.** Al final ya se te olvidó por qué cambiaste el motor.
 2. **Sube siempre los formatos "universales"** además del nativo: STEP + STL + PDF de planos, no solo el `.SLDPRT`. Las versiones de SolidWorks no son compatibles hacia atrás y el que venga después quizá no tenga tu versión.
@@ -58,7 +58,7 @@ Ver [competencias/README.md](competencias/README.md).
 4. **Nada de contraseñas, tokens ni datos personales** en el repo.
 5. **Videos → YouTube/Drive y aquí solo el link.** GitHub no es para videos pesados.
 
-## 🛠️ Antes de clonar
+## Antes de clonar
 
 Este repo usa **Git LFS** para archivos grandes (CAD, STL, etc.). Instálalo antes de clonar:
 

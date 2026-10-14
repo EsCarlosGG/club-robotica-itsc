@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Estado** | 🟡 En desarrollo |
+| **Estado** | En desarrollo |
 | **Inicio** | {{FECHA}} |
 | **Fin** | — |
 | **Tipo** | Sumo / Seguidor de línea / Brazo / Autónomo / Otro |
@@ -12,15 +12,15 @@
 
 ![Foto principal](media/foto-principal.jpg)
 
-## 🎯 Objetivo
+## Objetivo
 
 ¿Qué problema resuelve o para qué competencia es? Una o dos líneas.
 
-## 📝 Resumen
+## Resumen
 
 Descripción general del robot: cómo funciona, qué lo hace diferente.
 
-## ⚙️ Especificaciones
+## Especificaciones
 
 | Característica | Valor |
 |---|---|
@@ -33,7 +33,7 @@ Descripción general del robot: cómo funciona, qué lo hace diferente.
 | Material del chasis | |
 | Costo aproximado | $ MXN (ver [bom.csv](bom.csv)) |
 
-## 🧩 Arquitectura
+## Arquitectura
 
 Diagrama de bloques (GitHub dibuja Mermaid automáticamente, edítalo a tu gusto):
 
@@ -48,18 +48,18 @@ flowchart LR
 
 Diagrama de conexiones completo: [electronica/](electronica/)
 
-## 🔧 Cómo reproducirlo
+## Cómo reproducirlo
 
 1. Imprimir / fabricar piezas de [cad/](cad/) — material, relleno, orientación recomendada.
 2. Armar electrónica según [electronica/](electronica/).
 3. Compilar y cargar firmware según [firmware/](firmware/).
 4. Calibración: qué hay que ajustar y cómo.
 
-## 📊 Resultados
+## Resultados
 
 ¿Cómo le fue? Lugar en competencia, pruebas, números (velocidad, tiempos, etc.).
 
-## 💡 Lecciones aprendidas
+## Lecciones aprendidas
 
 > **La sección más importante.** Escribe lo que te hubiera gustado saber antes de empezar.
 
@@ -68,10 +68,10 @@ Diagrama de conexiones completo: [electronica/](electronica/)
 - **Lo que haríamos diferente:**
 - **Trampas a evitar** (piezas que se rompen, componentes que no sirven, errores de diseño):
 
-## ➡️ Siguientes pasos
+## Siguientes pasos
 
 Ideas para quien retome o mejore este proyecto.
 
-## 📚 Referencias
+## Referencias
 
 Tutoriales, datasheets, repos o videos que sirvieron.

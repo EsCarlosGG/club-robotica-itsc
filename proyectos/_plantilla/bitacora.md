@@ -1,4 +1,4 @@
-# 📓 Bitácora — {{NOMBRE}}
+# Bitácora — {{NOMBRE}}
 
 Anota aquí cada sesión de trabajo. No tiene que ser bonito, tiene que ser **útil**: qué hiciste, qué tronó y por qué decidiste lo que decidiste.
 

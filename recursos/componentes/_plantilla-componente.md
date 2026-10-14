@@ -7,7 +7,7 @@
 | **Precio aprox.** | $ MXN |
 | **Dónde se compró** | |
 | **Datasheet** | link |
-| **Veredicto** | ✅ Recomendado · ⚠️ Con cuidado · ❌ No recomendado |
+| **Veredicto** | Recomendado / Con cuidado / No recomendado |
 
 ## Conexión básica
 

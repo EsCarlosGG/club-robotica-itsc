@@ -1,4 +1,4 @@
-# 📚 Recursos
+# Recursos
 
 Conocimiento que no es de un solo proyecto, sino del club en general.
 
