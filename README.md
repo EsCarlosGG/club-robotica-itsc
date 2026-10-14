@@ -16,7 +16,6 @@ La idea es simple: que ninguna generación empiece desde cero. Si vas a hacer un
 │   ├── guias/          ← Tutoriales hechos por el club (flashear, soldar, CAD…)
 │   ├── componentes/    ← Fichas de componentes que ya probamos
 │   └── reglamentos/    ← Reglamentos de competencias
-├── herramientas/       ← Scripts útiles (ej. crear un proyecto nuevo)
 └── CONTRIBUTING.md     ← Cómo subir tu proyecto (léelo antes de subir algo)
 ```
 

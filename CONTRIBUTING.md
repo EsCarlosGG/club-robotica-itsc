@@ -24,13 +24,9 @@ Guía para que cualquier integrante (aunque nunca haya usado Git) pueda subir su
 
 ## 2. Crea tu proyecto
 
-Desde la raíz del repo:
-
-```bash
-python herramientas/nuevo_proyecto.py "Robot sumo 4 llantas"
-```
-
-Eso crea `proyectos/2026-robot-sumo-4-llantas/` con todas las carpetas y plantillas. (Si no tienes Python, copia a mano la carpeta `proyectos/_plantilla/` y renómbrala.)
+1. Copia la carpeta `proyectos/_plantilla/` dentro de `proyectos/`.
+2. Renómbrala con el año y el nombre de tu proyecto, ej. `proyectos/2026-robot-sumo-4-llantas/`.
+3. En los `.md` de tu carpeta, cambia `{{NOMBRE}}` por el nombre del proyecto y `{{FECHA}}` por la fecha de inicio (`AAAA-MM-DD`).
 
 ### Convención de nombres
 
